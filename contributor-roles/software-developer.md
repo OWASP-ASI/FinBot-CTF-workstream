@@ -19,3 +19,6 @@ Students, new grads, or anyone looking to gain experience developing agentic app
 - Learn about agentic AI security while working on FinBot challenges.  
 - Build skills in agentic AI app development.  
 - Recognition as a contributor to a global OWASP initiative.  
+<br></br>
+
+[![APPLY TO VOLUNTEER](https://img.shields.io/badge/APPLY%20TO%20VOLUNTEER-blue?style=for-the-badge)](https://forms.gle/UyNdEMoPg8Q2xCEn6)
