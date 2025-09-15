@@ -22,3 +22,6 @@
 - A chance to shape one of the first agentic AI security CTFs.  
 - Leadership and mentoring experience in an open-source setting.  
 - Collaboration with a community of security and AI enthusiasts.  
+<br></br>
+
+[![APPLY TO VOLUNTEER](https://img.shields.io/badge/APPLY%20TO%20VOLUNTEER-blue?style=for-the-badge)](https://forms.gle/UyNdEMoPg8Q2xCEn6)
