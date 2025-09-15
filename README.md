@@ -9,6 +9,7 @@ We rely on volunteers to build, test, and grow this platform together. 🚀
 ---
 
 ## 🌟 What is FinBot?
+[owasp-finbot-ctf.org](https://owasp-finbot-ctf.org)
 
 **FinBot** is a fictional (but real!) AI Agent in charge of:  
 - Processing invoices for media services  
