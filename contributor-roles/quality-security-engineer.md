@@ -19,3 +19,7 @@ Students, new grads, or anyone eager to gain experience in security engineering,
 - Learn about agentic AI security while working on FinBot challenges.  
 - Build skills in security testing and quality assurance.  
 - Recognition as a contributor to a global OWASP project.  
+<br></br>
+
+[![APPLY TO VOLUNTEER](https://img.shields.io/badge/APPLY%20TO%20VOLUNTEER-blue?style=for-the-badge)](https://forms.gle/UyNdEMoPg8Q2xCEn6)
+
