@@ -48,9 +48,12 @@ Check out the available volunteer roles:
 
 ## 👥 Leads
 
-- **Helen Oakley** – Co-Captain  
-- **Allie Howe** – Co-Captain  
+- **Helen Oakley** – Impact Co-Captain  
+- **Allie Howe** – Impact Co-Captain  
 - **Abigail Dede Okley** – Chief Cat Herder
+
+![FinBot Team](https://github.com/OWASP-ASI/FinBot-CTF-workstream/blob/main/images/FinBot_team.jpg)
+
 
 ---
 
