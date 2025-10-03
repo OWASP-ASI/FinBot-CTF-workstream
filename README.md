@@ -39,7 +39,8 @@ Check out the available volunteer roles:
 3. **Contribute**  
    - Join weekly workstream call ([meeting minutes](https://docs.google.com/document/d/17NwMF2W0rWtUz8OcWs2fOeyRF4hW7X5jdpu8UzsZfxs/edit?usp=sharing)), meeting details are pinned on Slack [here](https://owasp.slack.com/archives/C09A2MFUXJ9/p1758832623381729)
    - Use slack channel for communication `#team-genai-asi-finbot`
-   - Pick-up tasks to do, ask for help if you are stuck or something is unclear!  
+   - Read [Process Guides](https://github.com/OWASP-ASI/FinBot-CTF-workstream/tree/main/process-guides)
+   - Pick-up tasks to do, ask for help if you are stuck or something is unclear!
 
 ⏱ **Time commitment:** Flexible. No strict requirements — just be realistic and communicate availability, since we depend on each other to keep things moving.  
 
