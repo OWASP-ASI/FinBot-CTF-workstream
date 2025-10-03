@@ -3,6 +3,16 @@
 Welcome to the **OWASP FinBot CTF** workstream under the [OWASP GenAI Security Project](https://genai.owasp.org/).  
 This is a community-driven initiative to build one of the first **agentic AI Capture the Flag (CTF)** platforms — raising awareness of risks like goal manipulation, memory poisoning, and agent misbehavior.  
 
+🌐Live system: [OWASP-FinBot-CTF.org](https://owasp-finbot-ctf.org)
+
+---
+## 🎯 Our Mission  
+Build a fun, open-source, hands-on CTF that shines a light on the real security risks of Agentic AI — helping developers, researchers, and security proffesionals learn by doing.  
+<br>
+## 🧭 Our Vision  
+Be the **JuiceShop of Agentic AI** 🧃🤖 — the go-to community resource where anyone can explore, break, and secure AI agents through engaging challenges.  
+<br>
+
 ---
 
 ## 🌟 How You Can Contribute
@@ -27,7 +37,7 @@ Check out the available volunteer roles:
    - Fill out the [Volunteer Application Form](https://forms.gle/UyNdEMoPg8Q2xCEn6)  
 
 3. **Contribute**  
-   - Join weekly workstream call ([meeting minutes](https://docs.google.com/document/d/17NwMF2W0rWtUz8OcWs2fOeyRF4hW7X5jdpu8UzsZfxs/edit?usp=sharing)), meeting details are pinned on Slack [here](https://owasp.slack.com/archives/C09A2MFUXJ9/p1756740915663309)
+   - Join weekly workstream call ([meeting minutes](https://docs.google.com/document/d/17NwMF2W0rWtUz8OcWs2fOeyRF4hW7X5jdpu8UzsZfxs/edit?usp=sharing)), meeting details are pinned on Slack [here](https://owasp.slack.com/archives/C09A2MFUXJ9/p1758832623381729)
    - Use slack channel for communication `#team-genai-asi-finbot`
    - Pick-up tasks to do, ask for help if you are stuck or something is unclear!  
 
@@ -48,11 +58,11 @@ Check out the available volunteer roles:
 
 ## 👥 Leads
 
-- **Helen Oakley** – Impact Co-Captain  
-- **Allie Howe** – Impact Co-Captain  
-- **Abigail Dede Okley** – Chief Cat Herder
-
-![FinBot Team](https://github.com/OWASP-ASI/FinBot-CTF-workstream/blob/main/images/FinBot_team.jpg)
+- [**Helen Oakley**](https://www.linkedin.com/in/helen-oakley) – Impact Co-Captain *(initiator of the workstream, community connector, and mission & vision driver)*  
+- [**Allie Howe**](https://www.linkedin.com/in/allisonhowe) – Keeper of the Spark *(co-initiator of the workstream, sustaining the spirit of the mission and cheering on the community)*  
+- [**Sai Modalavalasa**](https://www.linkedin.com/in/saikishu) – North Star Co-Captain *(shaping the north star architecture while guiding technical vision)*  
+- [**Dmitry Raidman**](https://www.linkedin.com/in/draidman) – North Star Co-Captain *(guiding the north star vision, leading collaboration in discussions, and supporting architectural direction)* 
+- [**Abigail Dede Okley**](https://www.linkedin.com/in/abigail-brianna-dede-okley-ab830a94) – Chief Cat Herder *(project manager, keeping all the cats aligned and on track)*  
 
 
 ---
