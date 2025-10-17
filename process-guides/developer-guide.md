@@ -22,12 +22,7 @@ It outlines how to set up your environment, work with the repositories, contribu
 
 ---
 
-## Development Setup
-(to be added)
-
----
-
-## Contributor Workflow
+## Development Setup and Contribution Workflow
 (to be added)
 
 
