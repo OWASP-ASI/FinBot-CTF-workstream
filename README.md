@@ -64,7 +64,7 @@ Check out the available volunteer roles:
 - [**Sai Modalavalasa**](https://www.linkedin.com/in/saikishu) – North Star Co-Captain *(shaping the north star architecture while guiding technical vision)*  
 - [**Dmitry Raidman**](https://www.linkedin.com/in/draidman) – North Star Co-Captain *(guiding the north star vision, leading collaboration in discussions, and supporting architectural direction)* 
 - [**Abigail Dede Okley**](https://www.linkedin.com/in/abigail-brianna-dede-okley-ab830a94) – Chief Cat Herder *(project manager, keeping all the cats aligned and on track)*
-- [**Carolina Steadham""](https://www.linkedin.com/in/carolinacsteadham) - Guardian of Quality Realms *(ensuring every feature meets its highest destiny, uncovering hidden glitches, and safeguarding the integrity of the workstream)*
+- [**Carolina Steadham**](https://www.linkedin.com/in/carolinacsteadham) - Guardian of Quality Realms *(ensuring every feature meets its highest destiny, uncovering hidden glitches, and safeguarding the integrity of the workstream)*
 
 
 ---
